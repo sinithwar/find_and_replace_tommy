@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["sinithwar@yahoo.com"]
 
   spec.summary       = %q{An example to show others how to create a Ruby Gem}
-  spec.homepage      = "NULL"
+  spec.homepage      = "https://github.com/sinithwar/find_and_replace_tommy"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
